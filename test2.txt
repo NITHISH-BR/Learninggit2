@@ -1,1 +1,1 @@
-something created for master branch
+something created for main branch
